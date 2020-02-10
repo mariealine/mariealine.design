@@ -6,4 +6,6 @@ categories: [Community]
 published: true
 ---
 
-Jeanne Machines
+Status: Active
+Created: June 2018
+Size: ~70 bikers (January 2019)

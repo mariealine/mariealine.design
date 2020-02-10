@@ -6,4 +6,6 @@ categories: [Community]
 published: true
 ---
 
-Design Sytems France
+Status: Active
+Created: February 2018
+Size: ~300 people (January 2019)
