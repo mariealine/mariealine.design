@@ -7,6 +7,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+header_pages:
+  - about.md
+  - works.md
+  - talks.md
+  - communities.md
+  - contact.md
+
 show_excerpts: true
 
 minima:
@@ -19,6 +27,7 @@ social_links:
   youtube: UCzFwnlibCLeuX1BGYytgXcA
   speakerdeck: mariealine
   malt: mariealine
+
 
 # Build settings
 theme: minima
