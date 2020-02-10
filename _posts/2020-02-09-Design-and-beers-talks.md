@@ -6,8 +6,6 @@ categories: [Community]
 published: true
 ---
 
-<header>
-    <h1>{{ page.title }}</h1>
-</header>
-
-Design and beers talks
+Status: Closed
+Created: April 2015
+Size: ~ (January 2019)
