@@ -24,5 +24,6 @@ social_links:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 google_analytics: UA-133299862-1
