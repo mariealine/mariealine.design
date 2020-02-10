@@ -6,6 +6,9 @@ categories: [Jobs]
 published: true
 ---
 
+## Product Designer
+As soon as I arrived at Weekendesk, I started working on redesigning the Weekendesk experience. Today, the new mobile version is online.
+
 POC
 Rewamp
 UI Kit
