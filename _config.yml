@@ -16,9 +16,18 @@ header_pages:
 
 show_excerpts: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Build settings
+theme: minima
 minima:
-  date_format: "%b %-d, %Y"
-  skin: classic
+  date_format: "%b %Y"
 
 social_links:
   linkedin: mariealine
@@ -28,9 +37,6 @@ social_links:
   speakerdeck: mariealine
   malt: mariealine
 
-
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
