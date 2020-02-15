@@ -21,7 +21,7 @@ Humans.txt: http://humanstxt.org
 /*SITE*/
 
 Language: English
-Last update: {{ site.now }}
+Last update: {{ site.time | date:"%Y/%m/%d" }}
 Doctype: HTML5
 Standards: HTML5, CSS3
 Software: Sublime Text, Github Desktop, Github, Netlify, Jekyll, Markdown, Git
