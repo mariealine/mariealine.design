@@ -1,9 +1,12 @@
-/*TEAM*/ 
+---
+---
+
+/*TEAM*/
 
 Author: Marie-Aline Millot
 Designer: Marie-Aline Millot
 Developer: Marie-Aline Millot
-Email: mariealinemillot@gmail.com                            
+Email: mariealinemillot@gmail.com
 Site: https://mariealine.design
 Twitter: @mariealine_
 Linkedin: mariealine
@@ -18,7 +21,7 @@ Humans.txt: http://humanstxt.org
 /*SITE*/
 
 Language: English
-Last update: 2020/02/15
+Last update: {{ site.time | date:"%Y/%m/%d" }}
 Doctype: HTML5
 Standards: HTML5, CSS3
 Software: Sublime Text, Github Desktop, Github, Netlify, Jekyll, Markdown, Git
